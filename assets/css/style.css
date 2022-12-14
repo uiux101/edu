@@ -702,9 +702,7 @@ footer h5 {
 [dir="rtl"] .btn-style-2 svg {
   transform: scalex(-1);
 }
-[dir="rtl"] .hero-section h1::before {
-  display: none;
-}
+
 [dir="rtl"] :is(body, input, select) {
   font-family: "cairo";
 }
