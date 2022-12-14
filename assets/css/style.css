@@ -207,7 +207,7 @@ button[type="submit"]:hover {
 .btn-style-2 {
   position: relative;
   padding: 10px 20px;
-  background: var(--color2);
+  background: var(--color1);
   color: #fff;
   border-radius: 5px;
   border: none;
