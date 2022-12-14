@@ -390,9 +390,9 @@ nav a {
   left: -400px;
   top: -50px;
   max-width: clamp(800px, 80vw, 1300px);
-  
-  fill: yellow;
-  z-index:5
+  min-width:500px;
+  fill: blue;
+  z-index:5;
 
 }
 
