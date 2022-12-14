@@ -390,8 +390,10 @@ nav a {
   left: -400px;
   top: -50px;
   max-width: clamp(800px, 80vw, 1300px);
-  width:800px;
-  fill: red;
+  
+  fill: yellow;
+  z-index:5
+
 }
 
 /********************************** about section *****************************************/
