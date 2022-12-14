@@ -390,7 +390,7 @@ nav a {
   left: -400px;
   top: -50px;
   max-width: clamp(800px, 80vw, 1300px);
-  fill: green;
+  fill: var(--color1);
 }
 
 /********************************** about section *****************************************/
