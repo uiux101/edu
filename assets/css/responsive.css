@@ -87,13 +87,12 @@
   .form-select.style-2 body,
   p,
   input,
+  a,
   select {
     font-size: 12px !important;
   }
-
   footer a {
     font-size: 11px !important;
-
   }
 }
 @media (min-width: 1400px) {
